@@ -8,7 +8,7 @@ Este vídeo de aproximadamente 1 minuto apresenta as áreas de atuação que as 
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, fazendo-o informar aos espectadores sobre as áreas de atuação e seus benefícios entre Java e Python. 
 
 ## 🚀 Resultados
 O vídeo informa ao espectador sobre qual linguagem de programação deve usar entre Java e Python em uma determinada área de atuação e seus benefícios ao usá-los.
